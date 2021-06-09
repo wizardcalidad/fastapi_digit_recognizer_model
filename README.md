@@ -1,0 +1,1 @@
+# fastapi_digit_recognizer_model
