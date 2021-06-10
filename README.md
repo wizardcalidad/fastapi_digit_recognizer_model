@@ -79,6 +79,13 @@ This is the python runtime environments required to run our application on cloud
 ```
 python-3.8.10
 ```
+
+## THE APPLICATION
+The link to the digit recognizer application is: 
+
+Digit Application: [digit_app](https://digit-stage-app.herokuapp.com/)
+
+
 ## MAINTAINER
 
 The maintainer of this project work is Me, Myself and I. Follow me on: 
