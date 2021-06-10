@@ -75,8 +75,10 @@ async def index():
 </form>
 </div>
 
-
-
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.shannons.com.au%2Flibrary%2Fimages%2Fauctions%2FJ5DA3C7EF35RWWY0%2F1600x1066%2Fnumber-plates-victorian-numerical-plates-285.jpg&f=1&nofb=1" width="300" height="180">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_91519.png&f=1&nofb=1" width="300" height="180">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.dreamstime.com%2Fz%2Fnumber-fridge-magnets-925425.jpg&f=1&nofb=1" width="300" height="180">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.nexusnewsfeed.com%2Fimages%2F2019%2F10%2FRepeated-Number-Patterns-350x245-1574026601075.jpg%3Fw%3D992%26h%3D744&f=1&nofb=1" width="300" height="180">
 </div>
 
 
