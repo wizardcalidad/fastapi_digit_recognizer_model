@@ -37,6 +37,14 @@ async def index():
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<style>
+.footer {
+  position: fixed;
+  width: 2000;
+  bottom: 0;
+  pading: 10;
+}
+</style>
 </head>
 <body>
 
@@ -50,22 +58,35 @@ async def index():
       <li><a href="#">Services</a></li>
       <li><a href="#">About Us</a></li>
     </ul>
-    <button class="btn btn-danger navbar-btn">Button</button>
-  </div>
+    <button class="btn btn-danger navbar-btn">Train Your Model</button>
+ 
 </nav>
 
 <div style="padding-left:16px">
-  <h2>Digit Recognition app</h2>
-  <p>Insert your image here</p>
+  <h2 style="color: red">Digit Recognition Application</h2>
+  <p style="color: blue">Insert your image here, and ensure the image you are checking is handwritten and it is in .png picture format. Thanks</p>
+  <br>
+  <div style="background-color:yellow" style="padding:16px">
   <form action="/predict_upload_file/" enctype="multipart/form-data" method="post">
-<input name="file" type="file" multiple>
-</br></br>
-<input type="submit">
+<input name="file" type="file" class="form-control" multiple>
+<div class="col-12">
+    <button type="submit" class="btn btn-primary">Check</button>
+  </div>
 </form>
 </div>
-<footer>
-<div>this project is done by Qoyum Yusuf @github.com/wizardcalidad.</div>
-</footer>
+
+
+
+</div>
+
+
+<div class="footer"  style="background-color: black">
+  <p style="color: white">Author: wizardcalidad<br>
+  <p style="color: white">this project is done by Qoyum Yusuf @github.com/wizardcalidad.</p>
+  <a href="mailto:yusufqoyum01@gmail.com">yusufqoyum01@gmail.com</a></p>
+</div>
+
+
 </body>
 </html>
 
