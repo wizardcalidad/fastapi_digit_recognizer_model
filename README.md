@@ -86,6 +86,11 @@ The link to the digit recognizer application is:
 Digit Application: [digit_app](https://digit-stage-app.herokuapp.com/)
 
 
+## DOCUMENTATION
+
+Read through the postman documentation on: [Postman](https://bit.ly/3cx6zpU) 
+
+
 ## MAINTAINER
 
 The maintainer of this project work is Me, Myself and I. Follow me on: 
